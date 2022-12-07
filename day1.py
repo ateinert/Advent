@@ -1,6 +1,6 @@
 
 
-inputfile = "test.txt"
+inputfile = "day1.txt"
 filestream = open(inputfile)
 
 calories = []
